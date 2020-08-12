@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:movies_search_app/model/movie_data_model.dart';
+import 'package:movies_search_app/model/imdb_movie_data_model.dart';
 import 'package:movies_search_app/provider_service/provider_class.dart';
 import 'package:movies_search_app/widget/demo_content_widget.dart';
 import 'package:movies_search_app/widget/home_screen_content_widget.dart';

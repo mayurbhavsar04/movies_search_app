@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movies_search_app/model/movie_data_model.dart';
+import 'package:movies_search_app/model/imdb_movie_data_model.dart';
 import 'package:movies_search_app/provider_service/provider_class.dart';
 import 'package:provider/provider.dart';
 import 'package:smooth_star_rating/smooth_star_rating.dart';

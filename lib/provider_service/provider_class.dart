@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:movies_search_app/model/movie_data_model.dart';
+import 'package:movies_search_app/model/imdb_movie_data_model.dart';
 
 class ProviderClass extends ChangeNotifier {
   MovieDataModel movie_data = new MovieDataModel();
